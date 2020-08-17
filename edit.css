@@ -6,6 +6,9 @@
     margin-left: -375px;
     margin-top: -285px;
 }
+.controller.edit {
+  background: url(assets/base.svg);
+}
 .custom.white{
     background: url(http://mrmcpowned.com/gamepad/xbox-assets/base-white.svgz);
 }
