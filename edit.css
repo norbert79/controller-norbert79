@@ -1,6 +1,6 @@
 .controller.edit {
-  background: url(assets/base.svg);
-}
+  background: url(https://cdn.jsdelivr.net/gh/norbert79/gamepadskin@master/assets/base.svg);
+} 
 
 .edit.disconnected {
   background: url(assets/disconnected.svg);
