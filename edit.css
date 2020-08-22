@@ -1,9 +1,9 @@
 .controller.edit {
-  background: url(https://raw.githubusercontent.com/norbert79/gamepadskin/master/assets/base.svg);
+ background: url(https://norbert79.sytes.net/gamepadviewer/assets/base.svg);
 } 
 
 .edit.disconnected {
-  background: url(assets/disconnected.svg);
+  background: url(https://norbert79.sytes.net/gamepadviewer/assets/disconnected.svg);
 }
 
 .edit .quadrant {
@@ -27,7 +27,7 @@
 }
 
 .edit .back, .edit .start {
-    background: url(assets/start-select.svg);
+    background: url(https://norbert79.sytes.net/gamepadviewer/assets/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -48,12 +48,12 @@
 
 .edit .button {
   position: absolute;
-  background: url(assets/buttons.svg);
+  background: url(https://norbert79.sytes.net/gamepadviewer/assets/buttons.svg);
 }
 
 .edit .button.pressed {
-    background-position-y: -48px;
-    margin-top: 5px;
+    background-position-y: -49px;
+	margin-top: 5px;
     opacity: 1;
 }
 
@@ -65,18 +65,18 @@
 
 .edit .b {
     background-position: -49px 0;
-    top: 57px;
-    right: 3px;
+    top: 58px;
+    right: 1px;
 }
 
 .edit .x {
     background-position: -98px 0;
-    top: 57px;
+    top: 58px;
     left: 4px;
 }
 
 .edit .y {
     background-position: 48px 0;
-    left: 55px;
-    top: 5px;
+    left: 54px;
+    top: 7px;
 }
