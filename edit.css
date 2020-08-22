@@ -1,9 +1,9 @@
 .controller.edit {
- background: url(https://raw.githubusercontent.com/norbert79/gamepadskin/master/assets/base.svg);
+ background: url(https://cdn.jsdelivr.net/gh/norbert79/gamepadskin/master/assets/base.svg);
 } 
 
 .edit.disconnected {
-  background: url(https://raw.githubusercontent.com/norbert79/gamepadskin/master/assets/disconnected.svg);
+  background: url(https://cdn.jsdelivr.net/gh/norbert79/gamepadskin/master/assets/disconnected.svg);
 }
 
 .edit .quadrant {
@@ -27,7 +27,7 @@
 }
 
 .edit .back, .edit .start {
-    background: url(https://raw.githubusercontent.com/norbert79/gamepadskin/master/assets/start-select.svg);
+    background: url(https://cdn.jsdelivr.net/gh/norbert79/gamepadskin/master/assets/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -48,7 +48,7 @@
 
 .edit .button {
   position: absolute;
-  background: url(https://raw.githubusercontent.com/norbert79/gamepadskin/master/assets/buttons.svg);
+  background: url(https://cdn.jsdelivr.net/gh/norbert79/gamepadskin/master/assets/buttons.svg);
 }
 
 .edit .button.pressed {
